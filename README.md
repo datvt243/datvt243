@@ -63,6 +63,10 @@ I'm a front-end developer
   <a href="https://www.linkedin.com/in/datvt243/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="linkedin - datvt" />
   </a>
+  &nbsp;
+  <a href="mailto:votan.it@gmail.com" target="top">
+    <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail - datvt" />
+  </a>
 </div>
 
 <br />
