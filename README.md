@@ -1,6 +1,7 @@
-## Hi there 👋
+## 👋 Hi there,
 I'm a front-end developer
 
+<!-- br -------------- -->
 <br>
 
 ## 🔥 GitHub Stats 🔥
@@ -14,12 +15,10 @@ I'm a front-end developer
   </a>
 </div>
 
-<br>
-
+<!-- br -------------- -->
 <br>
 
 ## Find me
-- Linkedin: https://www.linkedin.com/in/datvt243/
 <!-- https://icons8.com -->
 <div align="left">
   <a href="https://www.linkedin.com/in/datvt243/" target="_blank">
@@ -27,6 +26,7 @@ I'm a front-end developer
   </a>
 </div>
 
+<!-- br -------------- -->
 <br>
 
 <!--
