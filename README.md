@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+I'm a front-end developer
 
 <br>
-##🔥 GitHub Stats 🔥
+
+## 🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
   <a href="#" title="Trungquandev">
@@ -16,12 +17,13 @@
 <br>
 
 <br>
+
 ## Find me
 - Linkedin: https://www.linkedin.com/in/datvt243/
 <!-- https://icons8.com -->
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/datvt243/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin - datvt" />
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="linkedin - datvt" />
   </a>
 </div>
 
