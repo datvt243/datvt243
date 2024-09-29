@@ -1,7 +1,7 @@
 <img src="./think-twice-code-once-01.png" alt="think twice code once" />
 
 # 👋 Hi there,
-I'm a front-end developer
+I'm a front-end developer <br />
 Github page: <a href="https://datvt243.github.io" target="_blank">https://datvt243.github.io</a>
 
 ## 🛠 Technologies and Tools
