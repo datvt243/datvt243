@@ -3,7 +3,7 @@
 # 👋 Hi there,
 I'm a front-end developer <br />
 
-Portfolio: <a href="https://nuxt-demo-vert.vercel.app" target="_blank">https://nuxt-demo-vert.vercel.app</a>
+Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">https://resume-nuxt-vert.vercel.app</a>
 
 ## 🛠 Technologies and Tools
 <!-- https://simpleicons.org/ -->
