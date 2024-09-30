@@ -2,7 +2,8 @@
 
 # 👋 Hi there,
 I'm a front-end developer <br />
-Github page: <a href="https://datvt243.github.io" target="_blank">https://datvt243.github.io</a>
+
+Portfolio: <a href="https://nuxt-demo-vert.vercel.app" target="_blank">https://nuxt-demo-vert.vercel.app</a>
 
 ## 🛠 Technologies and Tools
 <!-- https://simpleicons.org/ -->
