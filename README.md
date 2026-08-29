@@ -1,9 +1,17 @@
 <img src="./think-twice-code-once-01.png" alt="think twice code once" />
 
-# 👋 Hi there,
-I'm a front-end developer <br />
+# 👋 Hi, I'm Đạt
 
-Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">https://resume-nuxt-vert.vercel.app</a>
+Frontend Developer with 5+ years of experience across Vue.js, Nuxt.js and React —
+currently building SAP applications (SAPUI5) at **Laidon Group**, with a background
+spanning HR platforms, e-commerce, and design-to-code work.
+
+Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">resume-nuxt-vert.vercel.app</a>
+
+## 🔭 Currently
+- Building SAP applications — data handling, API integration, data transformation @ **Laidon Group**
+- Sharpening TypeScript and testing practices (Jest, Cypress)
+- Exploring React.js and modern tooling around a Vue/Nuxt core
 
 ## 🛠 Technologies and Tools
 <!-- https://simpleicons.org/ -->
@@ -47,17 +55,26 @@ Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">https:/
 <br />
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 
+## 📌 Pinned Projects
+| Project | Description |
+| --- | --- |
+| [vue-resume](https://github.com/datvt243/vue-resume) | CV / resume site built with Vue.js |
+| [datvt243.github.io](https://github.com/datvt243/datvt243.github.io) | Personal website |
+| [clean-code-javascript](https://github.com/datvt243/clean-code-javascript) | Clean Code principles adapted for JavaScript |
+| [nodes-blog-api-ts](https://github.com/datvt243/nodes-blog-api-ts) | Blog API backend built with Node.js + TypeScript |
+
 ## 🔥 GitHub Stats 🔥
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github-readme-stats.vercel.app -->
 <div>
-  <a href="#" title="">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvt243&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  
-  <a href="#" title="">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=datvt243&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+  <img width="434" src="https://github-readme-stats.vercel.app/api?username=datvt243&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvt243&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img width="434" src="https://streak-stats.demolab.com/?user=datvt243&theme=react&border=61dafb&background=20232a&ring=61dafb&fire=61dafb&hide_border=true" alt="datvt243's GitHub streak" />
+
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=datvt243&theme=react-dark&hide_border=true&bg_color=20232a" alt="datvt243's contribution graph" />
 
 ## Find me
 <!-- https://icons8.com -->
@@ -70,22 +87,3 @@ Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">https:/
     <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail - datvt" />
   </a>
 </div>
-
-<br />
-
-
-> Roses are red, Violets are blue, unexpected '; ' on line 243
-<!--
-**datvt243/datvt243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
