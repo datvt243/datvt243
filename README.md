@@ -3,13 +3,13 @@
 # 👋 Hi, I'm Đạt
 
 Frontend Developer with 5+ years of experience across Vue.js, Nuxt.js and React —
-currently building SAP applications (SAPUI5) at **Laidon Group**, with a background
-spanning HR platforms, e-commerce, and design-to-code work.
+currently building SAP applications (SAPUI5), with a background spanning HR
+platforms, e-commerce, and design-to-code work.
 
 Portfolio: <a href="https://resume-nuxt-vert.vercel.app" target="_blank">resume-nuxt-vert.vercel.app</a>
 
 ## 🔭 Currently
-- Building SAP applications — data handling, API integration, data transformation @ **Laidon Group**
+- Building SAP applications — data handling, API integration, data transformation
 - Sharpening TypeScript and testing practices (Jest, Cypress)
 - Exploring React.js and modern tooling around a Vue/Nuxt core
 
