@@ -4,7 +4,7 @@
 currently delivering SAPUI5 / SAP Fiori apps for a Master Data Governance product;
 previously an HR & payroll SaaS (Vue 2 → 3, JavaScript → TypeScript).
 
-🌐 Portfolio: [datvt243.github.io](https://datvt243.github.io)
+🌐 Portfolio: [resume-nuxt-vert.vercel.app](https://resume-nuxt-vert.vercel.app)
 
 ## ⚡ Highlights
 - Architected a shared **OData service layer** in TypeScript reused across SAPUI5 views
