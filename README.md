@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Đạt — Frontend Developer
 
+<img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" title="TypeScript" />
+<img src="https://img.shields.io/badge/Vue.js%203-282C34?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js 3" title="Vue.js 3" />
+<img src="https://img.shields.io/badge/SAPUI5%20%2F%20Fiori-282C34?style=for-the-badge&logo=sap&logoColor=0FAAFF" alt="SAPUI5 / Fiori" title="SAPUI5 / Fiori" />
+<img src="https://img.shields.io/badge/Nuxt%203-282C34?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt 3" title="Nuxt 3" />
+<img src="https://img.shields.io/badge/Jest-282C34?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" title="Jest" />
+
 4+ years building enterprise SPAs with **TypeScript, Vue.js and SAPUI5** —
 currently delivering SAPUI5 / SAP Fiori apps for a Master Data Governance product;
 previously an HR & payroll SaaS (Vue 2 → 3, JavaScript → TypeScript).
