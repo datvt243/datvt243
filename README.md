@@ -2,7 +2,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Vue.js%20%C2%B7%20SAPUI5;4%2B%20years%20building%20enterprise%20SPAs;Service%20layers%20%C2%B7%20Component%20libraries%20%C2%B7%20Performance&font=Fira+Code&center=true&vCenter=true&width=560&height=45&size=20&color=61DAFB&pause=1200" alt="Frontend Developer · TypeScript · Vue.js · SAPUI5" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Vue.js%20%C2%B7%20SAPUI5;4%2B%20years%20building%20enterprise%20SPAs;Service%20layers%20%C2%B7%20Component%20libraries%20%C2%B7%20Performance&font=Fira+Code&center=true&vCenter=true&width=640&height=45&size=20&color=61DAFB&pause=1200" alt="Frontend Developer · TypeScript · Vue.js · SAPUI5" />
 </p>
 
 <p align="center">
