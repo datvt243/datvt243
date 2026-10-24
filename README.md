@@ -67,13 +67,6 @@ React (Hooks, functional components) · AI-assisted development (Claude, ChatGPT
 | [resume-vuejs-website](https://github.com/datvt243/resume-vuejs-website) | Resume/CV management app — Vue 3 + Vite + TypeScript, backed by the API below |
 | [resume-nodejs-api](https://github.com/datvt243/resume-nodejs-api) | Resume REST API — Node.js, Express, TypeScript, JWT, Redis rate limiting, Jest |
 
-## 🔥 GitHub Stats
-<!-- https://github-readme-stats.vercel.app -->
-<div>
-  <img width="434" src="https://github-readme-stats.vercel.app/api?username=datvt243&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="datvt243's GitHub stats" />
-  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvt243&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="datvt243's top languages" />
-</div>
-
 ## 📫 Find me
 [Portfolio](https://resume-nuxt-vert.vercel.app) · [LinkedIn](https://www.linkedin.com/in/datvt243/) · [votan.it@gmail.com](mailto:votan.it@gmail.com)
 
