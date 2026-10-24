@@ -1,27 +1,47 @@
-# 👋 Hi, I'm Đạt — Frontend Developer
+<h1 align="center">👋 Hi, I'm Đạt — Frontend Developer</h1>
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Vue.js%20%C2%B7%20SAPUI5;4%2B%20years%20building%20enterprise%20SPAs;Service%20layers%20%C2%B7%20Component%20libraries%20%C2%B7%20Performance&font=Fira+Code&center=true&vCenter=true&width=560&height=45&size=20&color=61DAFB&pause=1200" alt="Frontend Developer · TypeScript · Vue.js · SAPUI5" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" title="TypeScript" />
 <img src="https://img.shields.io/badge/Vue.js%203-282C34?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js 3" title="Vue.js 3" />
 <img src="https://img.shields.io/badge/SAPUI5%20%2F%20Fiori-282C34?style=for-the-badge&logo=sap&logoColor=0FAAFF" alt="SAPUI5 / Fiori" title="SAPUI5 / Fiori" />
 <img src="https://img.shields.io/badge/Nuxt%203-282C34?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt 3" title="Nuxt 3" />
 <img src="https://img.shields.io/badge/Jest-282C34?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" title="Jest" />
+</p>
 
-4+ years building enterprise SPAs with **TypeScript, Vue.js and SAPUI5** —
-currently delivering SAPUI5 / SAP Fiori apps for a Master Data Governance product;
-previously an HR & payroll SaaS (Vue 2 → 3, JavaScript → TypeScript).
+<p align="center">
+  <samp>
+    <a href="https://resume-nuxt-vert.vercel.app">portfolio</a> ·
+    <a href="https://www.linkedin.com/in/datvt243/">linkedin</a> ·
+    <a href="mailto:votan.it@gmail.com">email</a> ·
+    <a href="#-projects">projects</a>
+  </samp>
+</p>
 
-🌐 Portfolio: [resume-nuxt-vert.vercel.app](https://resume-nuxt-vert.vercel.app)
+---
+
+**Now** — Frontend Developer (SAPUI5 / TypeScript) on a Master Data Governance platform: a Partner Portal for supplier self-service and approval workflows. *(12/2024 – present)*
+
+**Before** — Frontend Developer (Vue.js / TypeScript) on an HR SaaS covering organization, timekeeping, payroll and recruitment. *(02/2022 – 05/2024)*
+
+**Earlier** — Responsive, mobile-first websites and e-commerce pages from design mockups, including projects for Japanese clients; mentored 3 junior developers. *(2014 – 2020)*
 
 ## ⚡ Highlights
-- Architected a shared **OData service layer** in TypeScript reused across SAPUI5 views
+- Architected a shared **OData service layer** in TypeScript — new SAPUI5 pages plug in instead of re-implementing API calls
 - Built a reusable **Vue.js component library** shared across HR, timekeeping, payroll and recruitment modules
-- Proposed and led an incremental **JavaScript → TypeScript** migration
+- Proposed and led an incremental **JavaScript → TypeScript** migration; contributed to the **Vue 2 → 3** upgrade
 - Made data-heavy tables smooth with **virtual scrolling, lazy loading and code splitting**
-- Code reviews and onboarding as the frontend team scaled from 3 to 8 engineers
+- Ramped up on SAPUI5 in **one week**, then onboarded new developers; code reviews as the FE team grew **3 → 8**
 
-## 🔭 Currently
-- SAPUI5 / Fiori · XML Views & Fragments · OData · Jest unit testing
-- Exploring React and AI-assisted development (Claude, ChatGPT)
+## 💬 Ask me about
+SAPUI5 / OData service layers · Vue 2 → 3 and JS → TS migrations · Rendering large data tables
+
+## 🌱 Learning
+React (Hooks, functional components) · AI-assisted development (Claude, ChatGPT)
 
 ## 🛠 Technologies and Tools
 <!-- https://simpleicons.org/ -->
@@ -54,16 +74,7 @@ previously an HR & payroll SaaS (Vue 2 → 3, JavaScript → TypeScript).
   <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvt243&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="datvt243's top languages" />
 </div>
 
-## Find me
-<!-- https://icons8.com -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/datvt243/" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="linkedin - datvt" />
-  </a>
-  &nbsp;
-  <a href="mailto:votan.it@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail - datvt" />
-  </a>
-</div>
+## 📫 Find me
+[Portfolio](https://resume-nuxt-vert.vercel.app) · [LinkedIn](https://www.linkedin.com/in/datvt243/) · [votan.it@gmail.com](mailto:votan.it@gmail.com)
 
 <img src="./think-twice-code-once-01.png" alt="think twice code once" />
